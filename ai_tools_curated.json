@@ -50,7 +50,8 @@
         {"name": "Zapier AI/Agents", "values": ["Cross-app automation", "Yes", "Yes", "7000+ apps", "Free / $19.99/mo"]},
         {"name": "n8n", "values": ["Self-hosted automation", "Yes (+code option)", "Yes", "400+ nodes", "Free (self-host) / cloud from $20/mo"]},
         {"name": "Notion AI", "values": ["Docs & knowledge management", "Yes", "Yes (Notion agents)", "Notion ecosystem", "Add-on ~$10/mo/seat"]},
-        {"name": "NotebookLM", "values": ["Research from your own docs", "Yes", "Limited", "Google Docs/Drive", "Free / Pro via Google One"]}
+        {"name": "NotebookLM", "values": ["Research from your own docs", "Yes", "Limited", "Google Docs/Drive", "Free / Pro via Google One"]},
+        {"name": "Microsoft Scout", "values": ["Always-on background task automation", "Yes (no-code)", "Yes (fully autonomous)", "M365, Teams, OneDrive, SharePoint, code/shell", "Requires GitHub Copilot subscription (Frontier early access)"]}
       ]
     }
   ],
@@ -99,7 +100,8 @@
         {"name": "Zapier AI / Agents", "desc": "AI-native workflow automation across SaaS tools.", "link": "https://zapier.com/ai"},
         {"name": "n8n", "desc": "Open-source workflow automation with AI/agent nodes.", "link": "https://n8n.io"},
         {"name": "Notion AI", "desc": "Autonomous page management, summarization, docs workflows.", "link": "https://www.notion.com/product/ai"},
-        {"name": "NotebookLM (Google)", "desc": "Research/knowledge extraction from your own documents.", "link": "https://notebooklm.google"}
+        {"name": "NotebookLM (Google)", "desc": "Research/knowledge extraction from your own documents.", "link": "https://notebooklm.google"},
+        {"name": "Microsoft Scout", "desc": "Always-on autonomous Copilot agent — proactively manages tasks across M365/desktop/web without constant prompting.", "link": "https://www.microsoft.com/en-us/copilot/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/"}
       ]
     }
   ]
