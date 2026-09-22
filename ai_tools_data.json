@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T22:34:42.565117+00:00",
-  "generated_at_local": "2026-09-22 10:34 PM",
+  "generated_at": "2026-09-22T22:59:40.458852+00:00",
+  "generated_at_local": "2026-09-22 10:59 PM",
   "categories": [
     {
       "category": "Chatbots & Assistants",
@@ -134,6 +134,11 @@
           "name": "NotebookLM (Google)",
           "desc": "Research/knowledge extraction from your own documents.",
           "link": "https://notebooklm.google"
+        },
+        {
+          "name": "Microsoft Scout",
+          "desc": "Always-on autonomous Copilot agent \u2014 proactively manages tasks across M365/desktop/web without constant prompting.",
+          "link": "https://www.microsoft.com/en-us/copilot/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/"
         }
       ]
     }
@@ -416,6 +421,16 @@
             "Limited",
             "Google Docs/Drive",
             "Free / Pro via Google One"
+          ]
+        },
+        {
+          "name": "Microsoft Scout",
+          "values": [
+            "Always-on background task automation",
+            "Yes (no-code)",
+            "Yes (fully autonomous)",
+            "M365, Teams, OneDrive, SharePoint, code/shell",
+            "Requires GitHub Copilot subscription (Frontier early access)"
           ]
         }
       ]
