@@ -1,0 +1,436 @@
+{
+  "generated_at": "2026-09-22T22:22:55.237171+00:00",
+  "generated_at_local": "2026-09-22 03:22 PM",
+  "categories": [
+    {
+      "category": "Chatbots & Assistants",
+      "tools": [
+        {
+          "name": "ChatGPT (OpenAI)",
+          "desc": "Leading general assistant \u2014 multimodal, reasoning, browsing, coding.",
+          "link": "https://chatgpt.com"
+        },
+        {
+          "name": "Claude (Anthropic)",
+          "desc": "Strong at long-context writing/analysis and full-codebase reasoning.",
+          "link": "https://claude.ai"
+        },
+        {
+          "name": "Gemini (Google)",
+          "desc": "Deep Gmail/Drive/YouTube integration; strong benchmarks.",
+          "link": "https://gemini.google.com"
+        },
+        {
+          "name": "Microsoft Copilot",
+          "desc": "Embedded across Microsoft 365 with agentic task automation.",
+          "link": "https://copilot.microsoft.com"
+        },
+        {
+          "name": "Perplexity AI",
+          "desc": "Research-focused conversational search with citations.",
+          "link": "https://www.perplexity.ai"
+        }
+      ]
+    },
+    {
+      "category": "Coding & Development",
+      "tools": [
+        {
+          "name": "GitHub Copilot",
+          "desc": "Mainstream AI pair-programmer, now with agentic multi-file workflows.",
+          "link": "https://github.com/features/copilot"
+        },
+        {
+          "name": "Claude Code",
+          "desc": "Natural-language driven code synthesis, refactors, debugging at project scale.",
+          "link": "https://www.anthropic.com/claude-code"
+        },
+        {
+          "name": "Cursor",
+          "desc": "AI-native code editor built for fast prototyping.",
+          "link": "https://cursor.com"
+        },
+        {
+          "name": "Replit",
+          "desc": "Browser-based AI app builder/IDE.",
+          "link": "https://replit.com"
+        },
+        {
+          "name": "Tabnine",
+          "desc": "Privacy-focused AI code completion.",
+          "link": "https://www.tabnine.com"
+        }
+      ]
+    },
+    {
+      "category": "Image & Design",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "desc": "High-end AI art/image generation with full creative workflows.",
+          "link": "https://www.midjourney.com"
+        },
+        {
+          "name": "DALL-E (OpenAI)",
+          "desc": "Detailed, prompt-driven image synthesis and editing.",
+          "link": "https://openai.com/dall-e-3"
+        },
+        {
+          "name": "Flux",
+          "desc": "Open-source, customizable image generation model.",
+          "link": "https://blackforestlabs.ai"
+        },
+        {
+          "name": "Canva AI",
+          "desc": "Mainstream AI design tools: templates, auto-branding, asset generation.",
+          "link": "https://www.canva.com/ai-image-generator"
+        }
+      ]
+    },
+    {
+      "category": "Video & Audio",
+      "tools": [
+        {
+          "name": "Sora (OpenAI)",
+          "desc": "Text/image-to-video generation, cinematic quality.",
+          "link": "https://openai.com/sora"
+        },
+        {
+          "name": "Runway ML",
+          "desc": "Accessible AI video editing, upscaling, generation.",
+          "link": "https://runwayml.com"
+        },
+        {
+          "name": "ElevenLabs",
+          "desc": "AI voice generation/cloning for narration and dubbing.",
+          "link": "https://elevenlabs.io"
+        },
+        {
+          "name": "Synthesia",
+          "desc": "AI avatar video generation for presentations/e-learning.",
+          "link": "https://www.synthesia.io"
+        }
+      ]
+    },
+    {
+      "category": "Productivity, Workflow & Agents",
+      "tools": [
+        {
+          "name": "Zapier AI / Agents",
+          "desc": "AI-native workflow automation across SaaS tools.",
+          "link": "https://zapier.com/ai"
+        },
+        {
+          "name": "n8n",
+          "desc": "Open-source workflow automation with AI/agent nodes.",
+          "link": "https://n8n.io"
+        },
+        {
+          "name": "Notion AI",
+          "desc": "Autonomous page management, summarization, docs workflows.",
+          "link": "https://www.notion.com/product/ai"
+        },
+        {
+          "name": "NotebookLM (Google)",
+          "desc": "Research/knowledge extraction from your own documents.",
+          "link": "https://notebooklm.google"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "domain": "Chatbots & Assistants",
+      "features": [
+        "Best for",
+        "Context window",
+        "Multimodal",
+        "Web/browsing",
+        "Coding strength",
+        "Price (entry)"
+      ],
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "values": [
+            "All-round assistant, broad ecosystem",
+            "128K-1M (tiered)",
+            "Yes (image/voice/video)",
+            "Yes",
+            "Strong",
+            "Free / $20/mo Plus"
+          ]
+        },
+        {
+          "name": "Claude",
+          "values": [
+            "Long-doc & code reasoning",
+            "200K-1M",
+            "Yes (image)",
+            "Limited",
+            "Very strong",
+            "Free / $20/mo Pro"
+          ]
+        },
+        {
+          "name": "Gemini",
+          "values": [
+            "Google Workspace integration",
+            "1M+",
+            "Yes (image/video)",
+            "Yes",
+            "Strong",
+            "Free / $19.99/mo Advanced"
+          ]
+        },
+        {
+          "name": "Microsoft Copilot",
+          "values": [
+            "Microsoft 365 workflows",
+            "128K",
+            "Yes",
+            "Yes",
+            "Good",
+            "Free / bundled in M365"
+          ]
+        },
+        {
+          "name": "Perplexity",
+          "values": [
+            "Cited research & search",
+            "32K-128K",
+            "Limited",
+            "Yes (core feature)",
+            "Basic",
+            "Free / $20/mo Pro"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "Coding & Development",
+      "features": [
+        "Best for",
+        "IDE integration",
+        "Multi-file/agentic",
+        "Model backend",
+        "Price (entry)"
+      ],
+      "tools": [
+        {
+          "name": "GitHub Copilot",
+          "values": [
+            "Mainstream pair-programming",
+            "VS Code, JetBrains, CLI",
+            "Yes (agent mode)",
+            "Multi-model (GPT/Claude/Gemini)",
+            "$10/mo Individual"
+          ]
+        },
+        {
+          "name": "Claude Code",
+          "values": [
+            "Whole-codebase refactors",
+            "Terminal / CLI-first",
+            "Yes",
+            "Claude",
+            "Usage-based / Pro+ plans"
+          ]
+        },
+        {
+          "name": "Cursor",
+          "values": [
+            "Fast AI-native editing",
+            "Standalone editor",
+            "Yes",
+            "Multi-model",
+            "Free / $20/mo Pro"
+          ]
+        },
+        {
+          "name": "Replit",
+          "values": [
+            "Browser app building",
+            "Built-in cloud IDE",
+            "Yes",
+            "Multi-model",
+            "Free / $20/mo Core"
+          ]
+        },
+        {
+          "name": "Tabnine",
+          "values": [
+            "Privacy-focused completion",
+            "Most major IDEs",
+            "Limited",
+            "Proprietary + local option",
+            "Free / $12/mo Pro"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "Image & Design",
+      "features": [
+        "Best for",
+        "Output quality",
+        "Editing/iteration",
+        "Commercial license",
+        "Price (entry)"
+      ],
+      "tools": [
+        {
+          "name": "Midjourney",
+          "values": [
+            "Artistic/creative images",
+            "Very high",
+            "Strong (vary/edit)",
+            "Yes (paid plans)",
+            "$10/mo Basic"
+          ]
+        },
+        {
+          "name": "DALL-E (OpenAI)",
+          "values": [
+            "Prompt-precise images",
+            "High",
+            "Good",
+            "Yes",
+            "Included w/ ChatGPT Plus"
+          ]
+        },
+        {
+          "name": "Flux",
+          "values": [
+            "Open-source/customizable",
+            "High",
+            "Depends on tool built on it",
+            "Yes (open weights)",
+            "Free (self-host) / API cost"
+          ]
+        },
+        {
+          "name": "Canva AI",
+          "values": [
+            "Templated design at scale",
+            "Good",
+            "Strong (brand kits)",
+            "Yes",
+            "Free / $12.99/mo Pro"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "Video & Audio",
+      "features": [
+        "Best for",
+        "Max clip length",
+        "Voice/avatar",
+        "Price (entry)"
+      ],
+      "tools": [
+        {
+          "name": "Sora",
+          "values": [
+            "Cinematic text-to-video",
+            "Up to ~1 min (tiered)",
+            "No",
+            "Included w/ ChatGPT Plus+"
+          ]
+        },
+        {
+          "name": "Runway ML",
+          "values": [
+            "Accessible video editing/gen",
+            "Extendable via tools",
+            "No",
+            "Free / $12/mo Standard"
+          ]
+        },
+        {
+          "name": "ElevenLabs",
+          "values": [
+            "Voice cloning/narration",
+            "N/A (audio)",
+            "Voice only",
+            "Free / $5/mo Starter"
+          ]
+        },
+        {
+          "name": "Synthesia",
+          "values": [
+            "Avatar presentation videos",
+            "Minutes-based credits",
+            "Avatar + voice",
+            "$29/mo Starter"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "Productivity, Workflow & Agents",
+      "features": [
+        "Best for",
+        "No-code",
+        "Native AI agents",
+        "Integrations",
+        "Price (entry)"
+      ],
+      "tools": [
+        {
+          "name": "Zapier AI/Agents",
+          "values": [
+            "Cross-app automation",
+            "Yes",
+            "Yes",
+            "7000+ apps",
+            "Free / $19.99/mo"
+          ]
+        },
+        {
+          "name": "n8n",
+          "values": [
+            "Self-hosted automation",
+            "Yes (+code option)",
+            "Yes",
+            "400+ nodes",
+            "Free (self-host) / cloud from $20/mo"
+          ]
+        },
+        {
+          "name": "Notion AI",
+          "values": [
+            "Docs & knowledge management",
+            "Yes",
+            "Yes (Notion agents)",
+            "Notion ecosystem",
+            "Add-on ~$10/mo/seat"
+          ]
+        },
+        {
+          "name": "NotebookLM",
+          "values": [
+            "Research from your own docs",
+            "Yes",
+            "Limited",
+            "Google Docs/Drive",
+            "Free / Pro via Google One"
+          ]
+        }
+      ]
+    }
+  ],
+  "supplemental_headlines": [
+    {
+      "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
+      "link": "https://finance.yahoo.com/m/c231c98d-d1fe-3d1e-800d-f7fac6223b31/rival-ai-agents%2C-instinct-and.html",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "Meta Stock Scores Wall Street Upgrade After Muse AI App Launch",
+      "link": "https://finance.yahoo.com/m/5bea9f22-d52a-33cc-aea8-f0339b8edaac/meta-stock-scores-wall-street.html",
+      "publisher": "Investor's Business Daily"
+    }
+  ]
+}
