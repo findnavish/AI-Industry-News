@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T23:38:55.938760+00:00",
-  "generated_at_local": "2026-11-23 11:38 PM",
+  "generated_at": "2026-11-24T22:09:53.711565+00:00",
+  "generated_at_local": "2026-11-24 10:09 PM",
   "categories": [
     {
       "category": "Chatbots & Assistants",
@@ -436,5 +436,16 @@
       ]
     }
   ],
-  "supplemental_headlines": []
+  "supplemental_headlines": [
+    {
+      "title": "Carnival (CCL) Stock Still Looks Below Fair Value On Cruise AI App Launch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/carnival-ccl-stock-still-looks-110939712.html",
+      "publisher": "Simply Wall St."
+    },
+    {
+      "title": "Meta Stock Scores Wall Street Upgrade After Muse AI App Launch",
+      "link": "https://finance.yahoo.com/m/5bea9f22-d52a-33cc-aea8-f0339b8edaac/meta-stock-scores-wall-street.html",
+      "publisher": "Investor's Business Daily"
+    }
+  ]
 }
